@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalj2205&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalj2205" /> </p>
 
-- 🌱 I’m currently learning **Data structures and algorithms, Java based frameworks, preparing for higher education and contributing to open-source**
+- 🌱 I’m currently learning **Data structures and algorithms, Java based frameworks and contributing to open-source**
 
 - 👨‍💻 All of my projects are available at [https://sheetaljain-portfolio.netlify.app/](https://sheetaljain-portfolio.netlify.app/)
 
