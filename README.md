@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data structures and algorithms, GCP - BigQuery and contributing to open-source**
 
-- 👨‍💻 All of my projects are available at [https://sheetaljain-portfolio.netlify.app/](https://sheetaljain-portfolio.netlify.app/)
-
 - 💬 Ask me about **C++, Java, Python, Web development(HTML, CSS, Javascript, React), Community Building and Personal branding**
 
 - 📫 How to reach me **sheetalj2205@gmail.com**
