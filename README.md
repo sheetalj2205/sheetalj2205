@@ -26,3 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetalj2205&show_icons=true&theme=radical&locale=en" alt="sheetalj2205" /></p>
 
+### 📝 My Latest Blog Post in Medium
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sheetalj2205/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sheetalj2205/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sheetalj2205/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sheetalj2205/1" alt="Recent Article 2">
