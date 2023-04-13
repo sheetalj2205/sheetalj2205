@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalj2205&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalj2205" /> </p> -->
 
-- 🌱 I’m currently learning **Data structures and algorithms, learning how to write test cases using Mockito in Spring boot, leveraging GCP services like BigQuery and looker, Creating visualizations with Power Bi and contributing to open-source**
+- 🌱 I’m currently learning **Data structures and algorithms, working on cool features of Tala App, leveraging GCP services like BigQuery and looker, creating visualizations with Power Bi and contributing to open-source**
 
 - 💬 Ask me about **C++, Java, Python, Web development(HTML, CSS, Javascript, React), Community Building and Personal branding**
 
