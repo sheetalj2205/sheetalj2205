@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalj2205&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalj2205" /> </p> -->
 
-- 🌱 I’m currently learning **Data structures and algorithms, working on cool features of Tala App, and contributing to open-source**
+- 🌱 I’m currently learning **Data structures and algorithms and working on cool features of Tala App**
 
 - 💬 Ask me about **C++, Java, Python, Web development(HTML, CSS, Javascript, React), GCP(BigQuery, Looker), Community Building and Personal branding**
 
