@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sheetal Jain</h1>
-<h3 align="center"> Software Development Engineer I | Java Developer | Open-source enthusiast</h3>
+<h3 align="center"> Software Development Engineer I | Java Developer 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalj2205&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalj2205" /> </p> -->
 
