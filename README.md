@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Sheetal Jain</h1>
-<h3 align="center"> Software Development Engineer I | Java Developer 
+<h3 align="center"> Software Development Engineer I | Java Developer </h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetalj2205&label=Profile%20views&color=0e75b6&style=flat" alt="sheetalj2205" /> </p> -->
 
-- 🌱 I’m currently learning **Data structures and algorithms and working on cool features of Tala App**
+- 🌱 I’m currently focused on learning **data structures and algorithms, honing my skills to tackle complex problems and create efficient, scalable solutions.**
 
-- 💬 Ask me about **C++, Java, Python, Web development(HTML, CSS, Javascript, React), GCP(BigQuery, Looker), Community Building and Personal branding**
+- 💬 Ask me about **C++, Java, Python, Spring Boot, GCP(BigQuery, Looker), Community Building and Personal branding**
 
 - 📫 How to reach me **sheetalj2205@gmail.com**
 
