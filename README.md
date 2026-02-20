@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently pursuing my **Master’s in Computer Science at SUNY Buffalo**, expanding my expertise across core computer science domains with a focus on scalable systems, secure architectures, and advanced computing technologies.
 
-- 🌱 I’m currently learning **Data Structures & Algorithms and System Design and AI technologies** to strengthen my problem-solving skills and build intelligent, scalable systems.
+- 🌱 I’m currently learning **Data Structures & Algorithms, System Design and AI technologies** to strengthen my problem-solving skills and build intelligent, scalable systems.
 
 - 💼 Previously worked as a **Software Engineer in FinTech**, building and scaling Java-based backend systems supporting global users. I developed reliable services, modernized legacy systems, strengthened authentication and security, integrated third-party platforms, and improved system performance and deployment workflows.
 
